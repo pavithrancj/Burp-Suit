@@ -44,7 +44,7 @@ This report summarizes two separate penetration testing labs performed using **B
 
 ## 📄 Full Lab Reports
 
-- 🔗 [Full Web Application Burp Lab Report](https://docs.google.com/document/d/1yTqFxx_VAnqCWV7OeA6ChLBrSBoEVrdZ_JchUuEDyyg/edit?usp=sharing)
+- 🔗 [Full Web Application Burp Lab Report](https://github.com/pavithrancj/Burp-Suit/blob/main/Burp%20Suit_Web%20Exploit.pdf)
 ---
 
 ## 📱 2. Mobile Application Security Assessment
@@ -97,4 +97,4 @@ This report summarizes two separate penetration testing labs performed using **B
 ## 📄 Full Lab Reports
 
 
-- 🔗 [Full Mobile Application Burp Lab Report](https://docs.google.com/document/d/1a62EM9tIh-Fv_0-GJQ8xuHx1xLoVP_LAdR0VUkcGZTI/edit?usp=sharing)
+- 🔗 [Full Mobile Application Burp Lab Report](https://github.com/pavithrancj/Burp-Suit/blob/main/Burp%20Suit_Mobile%20Application.pdf)
