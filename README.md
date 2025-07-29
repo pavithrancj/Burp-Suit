@@ -15,7 +15,7 @@ This report summarizes two separate penetration testing labs performed using **B
 ### 🛠 Tools Used
 - **Burp Suite**
 - **Kali Linux VM** 
-- **Lab 11 VM** 
+- **Lab VM Provided by my college** 
 
 ### 📌 Key Steps
 
