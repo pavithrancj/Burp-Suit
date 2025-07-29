@@ -5,7 +5,7 @@ This report summarizes two separate penetration testing labs performed using **B
 
 ---
 
-## 🧪 1. Web Application Exploitation (Lab 11 VM)
+## 🧪 1. Web Application Exploitation 
 
 ### 🎯 Objectives
 - Use Burp Suite as a web proxy.
